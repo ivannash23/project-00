@@ -1,7 +1,11 @@
-.col-md-12{
-	background-color: grey;
+.track{
+	background-image: url(imgs/track.jpg);
+	background-size: auto;
+	border: 2px solid black;
+	min-height: 165px;
 }
 
 .col-md-1{
+	min-height: 90px;
 	padding: 5px;
-}
+} 
